@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deepakkeepapp/static/css/main.56d6a012.chunk.css",
+    "main.js": "/deepakkeepapp/static/js/main.c873d2fa.chunk.js",
+    "main.js.map": "/deepakkeepapp/static/js/main.c873d2fa.chunk.js.map",
+    "runtime-main.js": "/deepakkeepapp/static/js/runtime-main.000fe0c9.js",
+    "runtime-main.js.map": "/deepakkeepapp/static/js/runtime-main.000fe0c9.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/deepakkeepapp/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.406e2ed0.chunk.js": "/deepakkeepapp/static/js/2.406e2ed0.chunk.js",
+    "static/js/2.406e2ed0.chunk.js.map": "/deepakkeepapp/static/js/2.406e2ed0.chunk.js.map",
+    "static/js/3.8e964bfb.chunk.js": "/deepakkeepapp/static/js/3.8e964bfb.chunk.js",
+    "static/js/3.8e964bfb.chunk.js.map": "/deepakkeepapp/static/js/3.8e964bfb.chunk.js.map",
+    "index.html": "/deepakkeepapp/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/deepakkeepapp/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.56d6a012.chunk.css.map": "/deepakkeepapp/static/css/main.56d6a012.chunk.css.map",
+    "static/js/2.406e2ed0.chunk.js.LICENSE.txt": "/deepakkeepapp/static/js/2.406e2ed0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000fe0c9.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.406e2ed0.chunk.js",
+    "static/css/main.56d6a012.chunk.css",
+    "static/js/main.c873d2fa.chunk.js"
+  ]
+}
